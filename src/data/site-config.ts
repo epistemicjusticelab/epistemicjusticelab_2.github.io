@@ -48,15 +48,15 @@ const siteConfig: SiteConfig = {
     headerNavLinks: [
         {
             text: 'Home',
-            href: '/'
+            href: '/epistemicjusticelab.github.io'
         },
         {
             text: 'Projects',
-            href: '/projects'
+            href: '/epistemicjusticelab.github.io/projects'
         },
         {
             text: 'News',
-            href: '/news'
+            href: '/epistemicjusticelab.github.io/news'
         }
         // ,
         // {
@@ -67,15 +67,15 @@ const siteConfig: SiteConfig = {
     footerNavLinks: [
         {
             text: 'About',
-            href: '/about'
+            href: '/epistemicjusticelab.github.io/about'
         },
         {
             text: 'Contact',
-            href: '/contact'
+            href: '/epistemicjusticelab.github.io/contact'
         },
         {
             text: 'Terms',
-            href: '/terms'
+            href: '/epistemicjusticelab.github.io/terms'
         },
         {
             text: 'Download theme',
