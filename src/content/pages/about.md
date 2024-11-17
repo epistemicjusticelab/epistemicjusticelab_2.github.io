@@ -8,36 +8,26 @@ seo:
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/SmallBioPic.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Angel Ford, Assitant Professor, CEHC
 
-## Ethan Donovan - Web Developer based in Estonia
+### Education
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+- EdD Curriculum Development and Instruction, Liberty University
 
-## Skills and Expertise
+- MA Teaching and Learning, Liberty University
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+- BA Psychology, Saint Leo University
 
-## Innovation and Problem-Solving
+### Bio
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+I joined the College of Emergency Preparedness, Homeland Security and Cybersecurity (CEHC) at the University at Albany in July 2023. She arrives with a diverse set of professional, teaching, and research experiences including positions as an Assistant Professor of Educational Research, and as a researcher in several higher education programs and partnerships. In 2019-2020, Dr. Ford was a Fulbright Scholar to Addis Ababa University in Ethiopia, teaching and conducting research. While she was in Ethiopia, she also taught PhD research courses in Information Science for Jimma University where she continues to support their growing Information Science program.
 
-## Global Perspective, Local Impact
+Previous to entering the field of higher education, she served in K-12 classrooms and as a K-12 administrator and prior to that she served as an aircraft electro-environmental technician in the U.S. Air Force, where she enjoyed working on A-10, F-15, and F-16 aircrafts.
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+Her education includes an EdD in Curriculum Development and Instruction and a MA in Teaching and Learning from Liberty University, a BA in Psychology from Saint Leo University, and an A.S. in Aircraft Systems Maintenance Technology. She has also completed several courses for a PhD in Educational Psychology and Program Evaluation from Old Dominion University.
 
-## Continuous Learning
+She currently (2023-2025) serves as the past president of the International Society for Educational Planning https://isep.info/. She also serves as a support to the Fulbright organization for the orientation of individuals about to embark on their experiences abroad. She is currently on a three-year tenure on the Fulbright Specialist roster where she hopes to complete projects related to building human capacity in research methods and scholarly communication in sub-Saharan Africa.
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
-
-## Collaboration and Communication
-
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
-
-## Get in Touch
-
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+Her research interests are closely tied to areas of equity both within the United States and internationally. These interests include improving learning environments; students and educator motivations, aspirations, well-being, and persistence; fair and equitable partnerships and collaborations; global social justice in scholarly communication, and the benefits of cross-disciplinary/national and international investigations. Dr. Ford will be establishing a research lab within CEHC based on her current research focus on global epistemic justice in scholarly communication.
